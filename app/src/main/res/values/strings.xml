@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="my_phone_number">+713 457 8074</string>
+    <string name="twitter_handle">\@temirlan32</string>
+    <string name="my_email">temirlan45923@gmail.com</string>
+    <string name="my_name">Temirlan Maidan</string>
+    <string name="my_title">Web Developer</string>
+</resources>
